@@ -2,7 +2,7 @@ package calculadoramain;
 
 import java.util.Scanner;
 
-public class CalculadoraZip {
+public class Calculadoramain {
     // Esta calculadora e não utilizei métodos. fiz direto no main.
     // Utilizei o System.out para interação que tem um procedimento diferendo do JOption.pane.
 
