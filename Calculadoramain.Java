@@ -1,4 +1,4 @@
-package calculadorazip;
+package calculadoramain;
 
 import java.util.Scanner;
 
