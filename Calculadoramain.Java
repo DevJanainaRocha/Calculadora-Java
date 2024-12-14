@@ -18,7 +18,7 @@ public class Calculadoramain {
         opcao = 1;
 
             do{ 
-            System.out.println(" ### Escolha uma Operação ### ");
+            System.out.println(" ### Escolha uma opção: ### ");
             System.out.println("1 - Somar");
             System.out.println("2 - Multiplicar");
             System.out.println("3 - Subtrair");
