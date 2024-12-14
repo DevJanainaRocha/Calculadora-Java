@@ -23,7 +23,7 @@ public class Calculadoramain {
             System.out.println("2 - Multiplicar");
             System.out.println("3 - Subtrair");
             System.out.println("4 - Dividir");
-            System.out.println("5 - Ao Quadrado");
+            System.out.println("5 - Quadrado de um número");
             System.out.println("0 - SAIR");
             System.out.println("Digite a opção desejada ");
             opcao = entrada.nextInt();
